@@ -35,11 +35,11 @@ Os resultados mostram a eficácia da abordagem, com foco na maximização da mé
    git clone https://github.com/Matheusutino/time-series.git
 
 2. **Navegue até a pasta do trabalho desejado:**
-   - Para o **Trabalho 1**, use:
+   - Para o **Trabalho 1**, usar o python 3.9 e :
      ```bash
      cd time-series/trabalho-1
      ```
-   - Para o **Trabalho 2**, use:
+   - Para o **Trabalho 2**, usar o python 3.12 e:
      ```bash
      cd time-series/trabalho-2
      ```
