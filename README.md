@@ -20,6 +20,13 @@ A metodologia de detecção de anomalias envolveu o uso do MP para calcular as d
 
 Essas abordagens foram fundamentais para a detecção de arritmias cardíacas, permitindo automatizar o pré diagnóstico de doenças cardíacas em contextos clínicos.
 
+## Descrição do Projeto 2
+
+Este trabalho aplica técnicas de aprendizado de máquina para detectar fadiga em corredores recreativos, utilizando dados multivariados de séries temporais capturados por sensores vestíveis. Os dados foram coletados de 19 corredores durante um protocolo experimental estruturado, utilizando Unidades de Medição Inercial (IMUs) Shimmer3, que registraram aceleração e velocidade angular.
+
+A metodologia utilizada no trabalho consiste em: normalização Z-Score dos dados de séries temporais, extração de características com o método Random Convolutional Kernel Transform (ROCKET), classificação utilizando um Ridge Classifier e validação cruzada estratificada k-fold para avaliação confiável do desempenho.
+
+Os resultados mostram a eficácia da abordagem, com foco na maximização da métrica F1-score, destacando o potencial de dispositivos vestíveis e aprendizado de máquina para melhorar o monitoramento de atletas e prevenir lesões relacionadas à fadiga em aplicações práticas.
 
 ## Como Executar
 
